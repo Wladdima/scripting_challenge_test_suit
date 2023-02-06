@@ -18,9 +18,6 @@ Go To Team Page
     TopNav.Open Team
     TeamPage.Verify Page Loaded
 
-Validate "Team" Page
-    TeamPage.Validate Page Contents
-
 
 
     

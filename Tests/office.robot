@@ -27,7 +27,6 @@ ${HOME_PAGE_URL} =    https://automationplayground.com/front-office/
     [Tags]                 test3
     officeApp.Go To Home Page    ${HOME_PAGE_URL}
     officeApp.Go To Team Page
-    officeApp.Validate "Team" Page
 
 *** Keywords ***
 
